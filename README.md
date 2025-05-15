@@ -1,6 +1,29 @@
 # yaor
 Yet another onboarding repository
 
+# Levels
+
+## level 1
+
+- find the repository
+- star this repository
+- make a screenshot
+- post screenshot in #random-humor
+
+## level 2
+
+- create a new issue
+- create a branch from that issue from github
+- clone repository
+- make an empty commit
+- make a pull request with this empty commit
+- request pull request to be merged in #random-humor
+- get pull request merged
+
+## level 3
+
+..
+
 # Skills
 
 **1. Bash**
